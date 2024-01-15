@@ -1,0 +1,11 @@
+{
+  "name": "PS5 Exploit 4.03/4.50/4.51",
+  "version": "etaHEN v1.4B",
+    "home_assistant_domain": "slim_player",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [{ "path": "ps53sp32s2h14.bin", "offset": 0 }]
+    }
+  ]
+}
